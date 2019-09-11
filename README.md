@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+1. Install latest node.js from https://nodejs.org/en/
+2. Then follow to create a modern web app structure https://github.com/facebook/create-react-app
+3. All folders and files expect node-modules. 
+4. Clone these files into that folder. 
+5. Run ### `npm start`
+Please replace all folders except node-
+
 ## Available Scripts
 
 In the project directory, you can run:
