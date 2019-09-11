@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. All folders and files expect node-modules. 
 4. Clone these files into that folder. 
 5. Run npm start.
-Please replace all folders except node-
+
 
 ## Available Scripts
 
