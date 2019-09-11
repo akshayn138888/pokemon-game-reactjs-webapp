@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Install latest node.js from https://nodejs.org/en/
 2. Then follow to create a modern web app structure https://github.com/facebook/create-react-app
-3. All folders and files expect node-modules. 
-4. Clone these files into that folder. 
-5. Run npm start.
+3. Delete All folders and files expect node-modules in the respective directory.
+4. Clone these files into your respective directory. 
+5. Run npm start command on terminal to view the app on local-host: http://localhost:3000.
 
 
 ## Available Scripts
